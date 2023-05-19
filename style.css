@@ -1,0 +1,135 @@
+*{
+    /* background-image: url("https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg");
+    background-repeat: repeat;
+    background-size: cover; */
+    background-color: #fad8e9;
+} 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+h3{
+    padding-top: 5px;
+    margin-bottom: -15px;
+    font-size: 30px;
+    letter-spacing: 15px;
+    background-color: #ffaec9;
+}
+.outer{
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    min-width: 330px;
+    border-radius: 8px;
+    max-width: 500px;
+    background-color: #ffaec9;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1vh; */
+}
+.inner{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10%;
+    border-radius: 8px;
+    padding-top: 30px;
+    background-color: #fad8e9;
+    position: relative;
+}
+.inp{
+    margin: 20px;
+    padding: 6px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #FEF4EA;
+    font-family: cursive;
+}
+.inp:hover{
+    border: 2px solid rgb(255, 0, 43);
+}
+.btn{
+    padding: 20px;
+    background-color: #FEF4EA;
+}
+button{
+    width: 70px;
+    border-radius: 5px;
+    background-color: #FEF4EA;
+}
+button:hover{
+    background-color: #ffaec9;
+    border: solid rgb(255, 0, 43);
+}
+.outline{
+    border: 1px solid black;
+    height: 15px;
+    margin-bottom: 25px;
+    position: relative;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #FEF4EA;
+}
+.prog{
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+    background: #ff6eca;
+    width: 0%;
+    height: 100%
+}
+.meter{
+    margin-top: -40px;
+    padding-top: 0px;
+}
+h4{
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 20%;
+    background-color: #fad8e9;
+}
+.ans{
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    background-color: #fad8e9;
+}
+.fla{
+    margin-bottom: 10px;
+    background-color: #fad8e9;
+}
+h5{
+    margin-bottom: 20px;
+    letter-spacing: 15px;
+    /* visibility: hidden; */
+    background-color: #fad8e9;
+}
+p{
+    font-size: 13px;
+    position:absolute;
+    left: 50px;
+    top: -11px;
+    color: rgb(0, 0, 0);
+    opacity: 0.8;
+    background-color:#fad8e9;
+}
+.btn{
+    background-color:#fad8e9;
+}
+.icon{
+    width: 20px;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+}
+#i1{
+    left: 17.5%;
+    top: 16%;
+}
+#i2{
+    left: 17.5%;
+    top: 132px;
+}
+h6{
+    margin: 0px;
+    padding: 0px;
+}
